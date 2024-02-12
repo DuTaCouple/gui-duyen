@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Chúng mình hãy tạo ra thật nhiều kỉ niệm cùng nhau nhé <3',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun <3 Inbox cho anh nè!',
     messLink: 'https://www.facebook.com/tu.tai.nb/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }

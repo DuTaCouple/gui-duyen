@@ -5,7 +5,7 @@ const CONFIG = {
     Em trở thành lý do khiến anh mỉm cười trước khi đi ngủ,
     khiến anh có động lực để làm tất cả mọi thứ.
     Em là lý do khiến anh cảm thấy những chuyện đã từng xảy ra dường như không tệ đến thế.
-    Sự xuất hiện của em đã làm cho cuộc sống của anh trở nên tốt hơn...`,
+    Sự xuất hiện của em thực sự đã làm cho cuộc sống của anh trở nên tốt hơn...`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',

@@ -1,9 +1,11 @@
 const CONFIG = {
     introTitle: 'Duyên à! 😉',
-    introDesc: `           Trái đất vốn lạ thường  🌎     
-     Mà sao em cứ đi nhầm đường ...
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương 💓`,
+    introDesc: `Từ cái ngày đầu tiên chúng ta bắt đầu nói chuyện với nhau...
+    Bằng một cách thần kì nào đó em đã khiến anh vui vẻ trở lại.
+    Em trở thành lý do khiến anh mỉm cười trước khi đi ngủ,
+    khiến anh có động lực để làm tất cả mọi thứ.
+    Em là lý do khiến anh cảm thấy những chuyện đã từng xảy ra dừng như không tệ đến thế,
+    Sự xuất hiện của em đã làm cho cuộc sống của anh tốt hơn...`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
